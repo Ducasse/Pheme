@@ -1,7 +1,7 @@
 SmalltalkCISpec {
   #loading : [
     SCIMetacelloLoadSpec {
-      #baseline : 'MaterialDesignLite',
+      #baseline : 'Pheme',
       #directory : 'src',
       #platforms : [ #pharo ]
     }
