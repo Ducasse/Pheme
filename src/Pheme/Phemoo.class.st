@@ -1,3 +1,10 @@
+"
+Phemo is a limited subset of Scheme interpreter. It is fully described in the associated booklet: A Mini Scheme in Pharo available at http://books.pharo.org
+
+It uses a different way to manage primitives. There are represented as object instances. 
+
+
+"
 Class {
 	#name : #Phemoo,
 	#superclass : #Object,
